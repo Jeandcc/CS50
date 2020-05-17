@@ -10,5 +10,7 @@ IN (
     FROM people
     WHERE name IN ("Helena Bonham Carter","Johnny Depp")
   )
+  GROUP BY movie_id
+  HAVING COUNT(person_id) > 1
 )
 ORDER BY title
