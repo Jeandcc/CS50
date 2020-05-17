@@ -14,3 +14,4 @@ IN (
   )
 )
 ORDER BY rating DESC
+LIMIT 5
