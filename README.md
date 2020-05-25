@@ -4,7 +4,7 @@
 ## PSET 1
 A set of exercises aimed at getting the student familiar with the C programming language.
 1. [Hello](https://github.com/Jeandcc/CS50/blob/master/pset1/hello/hello.c): Simple program whose objective is to output the phrase "Hello X", where "X" is defined through user input.
-2. [Mario.c](https://github.com/Jeandcc/CS50/blob/master/pset1/mario/mario.c): Program whose objective is to output a symmetric pyramid of size n, where "n" is an integer greater than 1 and less than or equal to 8, provided by the user.
+2. [Mario](https://github.com/Jeandcc/CS50/blob/master/pset1/mario/mario.c): Program whose objective is to output a symmetric pyramid of size n, where "n" is an integer greater than 1 and less than or equal to 8, provided by the user.
 ```
 $ ./mario
 Height: 4
